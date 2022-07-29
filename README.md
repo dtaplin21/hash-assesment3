@@ -2,7 +2,7 @@
 
 ## Usage
 
-1. Download and unzip the skeleton [week-5-extra-practice-problems][week-5-extra-practice-problems].
+1. Clone the skeleton.
 2. Rename the folder to `firstname-lastname-week-5-practice-problems`. For
    example, if your name is "Jane Doe", then name your folder
    `jane-doe-week-5-practice-problems`
